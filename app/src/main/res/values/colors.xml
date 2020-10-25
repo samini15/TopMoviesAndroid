@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#151c25</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#f1b814</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteSmoke">#F5F5F5</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="grey">#808080</color>
+    <color name="dimGray">#696969</color>
+    <color name="orange">#FF8C00</color>
+</resources>

@@ -1,0 +1,86 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- ActivityMovieDetaile -->
+    <style name="ImageViewThumbnail">
+        <item name="android:layout_marginStart">@dimen/margin_start</item>
+        <item name="android:layout_marginTop">@dimen/margin_top</item>
+        <item name="android:layout_width">@dimen/layout_width_imageView</item>
+        <item name="android:layout_height">@dimen/layout_height_imageView</item>
+        <item name="android:layout_marginBottom">824dp</item>
+    </style>
+
+    <style name="releaseDate" parent="TextAppearance.AppCompat">
+        <item name="android:layout_marginStart">8sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="voteAverage" parent="TextAppearance.AppCompat">
+        <item name="android:layout_marginStart">8sp</item>
+        <item name="android:layout_marginTop">28sp</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="favoriteButton" parent="TextAppearance.AppCompat.Widget.Button">
+        <item name="android:background">@color/turquoise</item>
+        <item name="android:layout_marginEnd">@dimen/margin_end</item>
+        <item name="android:layout_width">76dp</item>
+        <item name="android:layout_height">53dp</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:enabled">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="disfavoriteButton" parent="TextAppearance.AppCompat.Widget.Button">
+        <item name="android:background">@color/orange</item>
+        <item name="android:layout_marginEnd">@dimen/margin_end</item>
+        <item name="android:layout_width">76dp</item>
+        <item name="android:layout_height">53dp</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="overview" parent="TextAppearance.AppCompat">
+        <item name="android:paddingStart">@dimen/padding_start</item>
+        <item name="android:paddingEnd">@dimen/padding_end</item>
+        <item name="android:layout_marginStart">@dimen/margin_start</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">25dp</item>
+        <item name="android:layout_marginEnd">20dp</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+    <style name="originalTitle" parent="TextAppearance.AppCompat">
+        <item name="android:layout_marginTop">68sp</item>
+        <item name="android:paddingLeft">20sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+
+    <!-- Trailer_view_holder -->
+    <style name="thumbnailVideo">
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+
+
+</resources>

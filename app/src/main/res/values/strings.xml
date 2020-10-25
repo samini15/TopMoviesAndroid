@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Untold movies</string>
+    <string name="sort_movies">Sort</string>
+    <string name="sort_popularity">Popularity</string>
+    <string name="sort_top_rated">Top rated</string>
+    <string name="sort_by_favorites">Favorites</string>
+    <string name="movie_thumbnail">movieThumbnail</string>
+    <string name="original_title">Original_title</string>
+    <string name="mark_as_favorite">MARK AS \nFAVORITE</string>
+    <string name="dismark_as_favorite">DISMARK AS \nFavorite</string>
+    <string name="vote_average">vote_average</string>
+    <string name="release_date">release_date</string>
+    <string name="overview">overview</string>
+    <string name="error_message">Sorry, an error has occurred! \n Please try again</string>
+    <string name="no_element_display">No element to display</string>
+    <string name="click_event_toast_message">You clicked</string>
+    <string name="image_url">https://image.tmdb.org/t/p/w185/</string>
+    <string name="failure">Error</string>
+    <string name="trailers_title">Trailer(s)</string>
+</resources>

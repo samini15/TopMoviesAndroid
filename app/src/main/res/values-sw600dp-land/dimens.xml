@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_start">100dp</dimen>
+    <dimen name="padding_start">100dp</dimen>
+    <dimen name="padding_end">100dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="margin_end">40dp</dimen>
+    <dimen name="layout_width_imageView">250dp</dimen>
+    <dimen name="layout_height_imageView">220dp</dimen>
+</resources>

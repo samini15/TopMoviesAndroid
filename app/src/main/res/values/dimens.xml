@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Movie detail activity layout properties-->
+    <dimen name="margin_start">5dp</dimen>
+    <dimen name="padding_start">5dp</dimen>
+    <dimen name="padding_end">20dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="margin_end">20dp</dimen>
+    <dimen name="layout_width_imageView">250dp</dimen>
+    <dimen name="layout_height_imageView">220dp</dimen>
+</resources>
